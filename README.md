@@ -5,4 +5,4 @@ You can play with your friend and AI
 You can find the app on the App Store
 https://apps.apple.com/ca/app/tic-tac-toe-27/id1611691457?l=fr-CA
 
-![IMG_3637](https://github.com/LELUDO7/TicTacToe27/assets/89437176/32d05838-0f1c-4c5a-9423-3d5454884cdf | width=100)
+![](https://github.com/LELUDO7/TicTacToe27/assets/89437176/32d05838-0f1c-4c5a-9423-3d5454884cdf )
